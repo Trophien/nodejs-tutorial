@@ -1,0 +1,13 @@
+{
+        "name": "Joe",
+        "birth": 1999,
+        "tulajdonsagok": {
+            "szemszin": "vdsafas",
+            "hajszin": "fdsfsdf"
+        },
+        "mivanataskaban": [
+            "Kulcs",
+            "Szipu"
+        ]
+
+}
